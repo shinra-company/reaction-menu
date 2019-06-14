@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Mundayne/reaction-menu#readme",
   "dependencies": {
-    "reaction-core": "^2.0.6"
+    "reaction-core": "github:shinra-company/reaction-core"
   }
 }
